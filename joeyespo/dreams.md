@@ -10,7 +10,7 @@ My Python dreams, and my reasons for them.
 
 - Community [open](http://dcurt.is/what-a-stupid-idea)-[mindedness](http://signalvnoise.com/posts/3124-give-it-five-minutes)
 
-- More [art projects](https://www.youtube.com/watch?v=ikAb-NYkseI) (requires the previous two)
+- More [art](https://www.youtube.com/watch?v=ikAb-NYkseI) (requires the previous two)
 
 - More creative uses of Python (requires the previous three)
 

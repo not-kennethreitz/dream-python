@@ -1,0 +1,3 @@
+# kennethreitz's plans
+
+I'd love to see Python become a few things...

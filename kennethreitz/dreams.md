@@ -8,4 +8,5 @@
 ## Technical
 
 - More Linux-Philosophy Friendly
-- PyPy as the default Python everywhere.
+- PyPy as the default Python everywhere (from @alex).
+- No more Python 2 / 3 decisions (from @alex).

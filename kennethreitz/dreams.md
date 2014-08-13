@@ -1,9 +1,11 @@
-# kennethreitz's dreams
+# Dreams
 
-I'd love to see Python become a few things...
+## Community
 
-## More Loving & Accepting
+- More Loving & Accepting
+- The Obvious Choice™
 
-## The Obvious Choice™
+## Technical
 
-## More Linux-Philosophy Friendly
+- More Linux-Philosophy Friendly
+- PyPy as the default Python everywhere.

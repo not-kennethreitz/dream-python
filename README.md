@@ -9,7 +9,7 @@ What do you want Python to be? Let's make it happen.
 ## Add Your Dreams!
 
 **Step 1**: Send a Pull Request, adding a directory for yourself.   
-**(There is no) Step 2**: Once accepted, you will become a collaborator on the repository.
+**(There is no) Step 2**: You will now have write access to the repository.
 
 
 ## The Rules

@@ -9,3 +9,5 @@
 - No more Python 2 vs Python 3 debates
 
 - A better base http library
+
+- More local user groups that support and mentor new Pythonistas

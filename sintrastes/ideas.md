@@ -1,7 +1,7 @@
 Algebraic Data Types
 ====================
 
-While oftentimes Python's classes in built in data types get by, I think that Python would be enriched with the addition of a nice syntax for algebraic data types.
+While oftentimes Python's classes and built in data types get by, I think that Python would be enriched with the addition of a nice syntax for algebraic data types.
 
 This new syntax might look somewhat like this:
 

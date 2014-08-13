@@ -4,6 +4,21 @@ Dreams
 My Python dreams, and my reasons for them.
 
 
+## The community
+
+- No [judgment](http://sivers.org/ss) or [ridicule](http://harthur.wordpress.com/2013/01/24/771/)
+
+- Community [open](http://dcurt.is/what-a-stupid-idea)-[mindedness](http://signalvnoise.com/posts/3124-give-it-five-minutes)
+
+- More [art projects](https://www.youtube.com/watch?v=ikAb-NYkseI) (requires the previous two)
+
+- More creative uses of Python (requires the previous three)
+
+- Welcome all developers from all backgrounds
+
+- For Pycon to come to Pittsburgh, PA :smiley:
+
+
 ## The language
 
 - **No more Python 2 vs 3**
@@ -101,6 +116,7 @@ Kennith, thank you for this outlet. The simplicity of this repo is profound,
 and I've enjoyed reading the wishes of others. :smiley:
 
 
+[Pittsburgh]: http://en.wikipedia.org/wiki/Pittsburgh
 [easy]: http://www.infoq.com/presentations/Simple-Made-Easy
 [learnable-programming]: http://worrydream.com/LearnableProgramming/
 [logging]: http://12factor.net/logs

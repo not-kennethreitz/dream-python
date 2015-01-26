@@ -11,3 +11,7 @@
 - A better base http library
 
 - More local user groups that support and mentor new Pythonistas
+
+- More people willing to call out problematic and sexist behaviour when they see it
+
+- A safer community for everyone who wants to use Python and contribute

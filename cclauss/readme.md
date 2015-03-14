@@ -25,7 +25,7 @@ On bounding a variable between a min and a max
 ```
 x = -3 |> x <| 5
 # would be equal to:
-x = max(min(x, 5), -3)
+x = min(max(x, -3), 5)
 
 # other approaches
 x = -3 | x | 5

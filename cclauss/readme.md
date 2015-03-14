@@ -7,9 +7,11 @@ Community
 * Push harder to get all useful third party libraries/modules fully ported to Python3.
     * Twisted, gevent
 * Put Python2 out to pasture so that we can unify and press forward.
-* Move to something more modern/powerfuk than tkinter as the bundled UI.  Today there are way too many UI options which is stalling innovation.
+* Move to something more modern/powerful than tkinter as the bundled UI.  Today there are way too many UI options which is increasing the learning curve, fostering duplication of effort, and stalling innovation.
     * Tkinter, Pygame, PyQt, PySide, PyGObject, PyGtk. kivy, etc.
-* Python as one of the top languages used on game development.
+* Python as one of the top languages used for game development.
+* More support for and progress on speeding up Python execution (Pypy3, etc.)
+* More rapid support for new Python and Pypy releases on PaaS systems like Bluemix, Heroku, etc.
 
 Technical
 ---------

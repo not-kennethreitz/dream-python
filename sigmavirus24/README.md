@@ -19,3 +19,7 @@
 - A safer community for everyone who wants to use Python and contribute
 
 - Fewer "thought leaders" who spread lies and FUD about aspects of security, diversity, and the future of the language
+
+- Better overall interaction with packagers in the Arch, Gentoo, Debian, Ubuntu, Fedora, etc. communities
+
+- More people interested in helping effect positive change for users of every package

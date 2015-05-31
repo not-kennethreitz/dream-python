@@ -116,6 +116,15 @@ Kennith, thank you for this outlet. The simplicity of this repo is profound,
 and I've enjoyed reading the wishes of others. :smiley:
 
 
+## Update: Shared dreams
+
+Here's some dreams I didn't even know I had until reading what others had to say.
+
+- Pattern matching like rust ([thikonom](https://github.com/kennethreitz/dream-python/tree/master/thikonom))
+- Native distributables ([rosarior](https://github.com/kennethreitz/dream-python/tree/master/rosarior))
+- go fmt ([iandanforth](https://github.com/kennethreitz/dream-python/tree/master/iandanforth))
+
+
 [Pittsburgh]: http://en.wikipedia.org/wiki/Pittsburgh
 [easy]: http://www.infoq.com/presentations/Simple-Made-Easy
 [learnable-programming]: http://worrydream.com/LearnableProgramming/

@@ -62,6 +62,8 @@ My Python dreams, and my reasons for them.
 
 - **Python in the browser**
 
+  *<strong>Update:</strong> Looks like there's promise with [PyPy.js :smile:](http://pypyjs.org/) ([Pycon video](https://www.youtube.com/watch?v=PiBfOFqDIAI))*
+
   A lot of what I do these days is web development. Because of this, I've
   slowly been migrating to JavaScript. It's been a fragmented experience
   compared to the thoughtfulness of Python data types, literals, and other

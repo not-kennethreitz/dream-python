@@ -1,4 +1,4 @@
-# Dreams
+# Kenneth Reitz's Python Dreams
 
 ![random](https://farm4.staticflickr.com/3764/11277636334_8ea91ff536_k_d.jpg)
 

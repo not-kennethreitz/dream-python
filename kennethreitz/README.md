@@ -10,6 +10,6 @@
 ## Technical
 
 - Excellent first-class "ship a single-file binary" workflow. 
-- More Linux-Philosophy Friendly (e.g. [taco-bell programming](http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html))
+- More Linux-Philosophy Friendly (e.g. [taco-bell programming](http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html)).
 - PyPy as the default Python everywhere — one day.
 - No more Python 2 / 3 decisions.

@@ -1,0 +1,2 @@
+- a coroutine based GUI
+- single executable artifact without PhD in rocket science
